@@ -6,13 +6,13 @@
 - Igor Vidal Meneghini 
 - Isabela Demaria Costa Braga
 - Sofia Melo do Prado Rocha Duque
-- Theodoro
+- Theodoro Augusto
 
   ---
 
 ## 📹 Vídeo Demonstrativo
 
-**Link do vídeo:**
+**Link do vídeo:** 
 
 
 ---
