@@ -6,7 +6,7 @@
 - Igor Vidal Meneghini 
 - Isabela Demaria Costa Braga
 - Sofia Melo do Prado Rocha Duque
-- Theodoro Augusto
+- Theodoro Augusto de Brito Spadinger Motter
 
   ---
 
@@ -18,3 +18,4 @@ https://www.youtube.com/watch?v=bI7jUkDjftw
 
 
 ---
+[Uploading ProjetoSAP1Modificado.circ…]()
