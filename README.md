@@ -1,6 +1,6 @@
 # SAP-MODIFICADO
 
- 
+ ---
  
 ## 🤖 Descrição do projeto
 Sistema microcontrolador com unidade adicional de "Timer", "Porta de entrada" de 8 bits e "Unidade de comunicação serial" de entrada e saída de 8 bits.
